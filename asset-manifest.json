@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/markdown-compiler-with-react/static/css/main.f8cff988.chunk.css",
+    "main.js": "/markdown-compiler-with-react/static/js/main.560cf80a.chunk.js",
+    "main.js.map": "/markdown-compiler-with-react/static/js/main.560cf80a.chunk.js.map",
+    "runtime-main.js": "/markdown-compiler-with-react/static/js/runtime-main.3c6a6b60.js",
+    "runtime-main.js.map": "/markdown-compiler-with-react/static/js/runtime-main.3c6a6b60.js.map",
+    "static/js/2.39546e3a.chunk.js": "/markdown-compiler-with-react/static/js/2.39546e3a.chunk.js",
+    "static/js/2.39546e3a.chunk.js.map": "/markdown-compiler-with-react/static/js/2.39546e3a.chunk.js.map",
+    "static/js/3.18794ef1.chunk.js": "/markdown-compiler-with-react/static/js/3.18794ef1.chunk.js",
+    "static/js/3.18794ef1.chunk.js.map": "/markdown-compiler-with-react/static/js/3.18794ef1.chunk.js.map",
+    "index.html": "/markdown-compiler-with-react/index.html",
+    "static/css/main.f8cff988.chunk.css.map": "/markdown-compiler-with-react/static/css/main.f8cff988.chunk.css.map",
+    "static/js/2.39546e3a.chunk.js.LICENSE.txt": "/markdown-compiler-with-react/static/js/2.39546e3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c6a6b60.js",
+    "static/js/2.39546e3a.chunk.js",
+    "static/css/main.f8cff988.chunk.css",
+    "static/js/main.560cf80a.chunk.js"
+  ]
+}
